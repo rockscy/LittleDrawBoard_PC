@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="LittileDrawBoard-Master_pc:jar">
+    <output-path>$PROJECT_DIR$/LittileDrawBoard_Master_pc_jar</output-path>
+    <root id="archive" name="LittileDrawBoard-Master_pc.jar">
+      <element id="module-output" name="LittileDrawBoard-Master_pc" />
+      <element id="dir-copy" path="$PROJECT_DIR$/src/com/rock/drawboard/board/image" />
+    </root>
+  </artifact>
+</component>

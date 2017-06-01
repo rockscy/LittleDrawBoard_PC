@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/src/com/rock/drawboard/Painter/Circle.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/rock/drawboard/Painter/Command.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/rock/drawboard/Painter/CusString.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/rock/drawboard/Painter/Eraser.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/rock/drawboard/Painter/ImageToJpeg.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/rock/drawboard/Painter/Line.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/rock/drawboard/Painter/Pencil.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/rock/drawboard/Painter/PointsSet.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/rock/drawboard/Painter/Rectangle.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/rock/drawboard/Painter/Shape.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/rock/drawboard/board/MyCanvas.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/rock/drawboard/board/NwFontChooserS.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/rock/drawboard/board/PaintBoard.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/rock/drawboard/board/SplashWindow.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/rock/drawboard/board/TextInput.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/rock/drawboard/board/image" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/rock/drawboard/module/Login.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/rock/drawboard/shape/CanvasEllipse.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/rock/drawboard/shape/CanvasImage.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/rock/drawboard/shape/CanvasLine.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/rock/drawboard/shape/CanvasPencil.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/rock/drawboard/shape/CanvasPolyLine.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/rock/drawboard/shape/CanvasRectangle.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/rock/drawboard/shape/CanvasRoundRectangle.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/rock/drawboard/shape/CanvasShape.java" charset="GBK" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
